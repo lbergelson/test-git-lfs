@@ -1,1 +1,2 @@
 large_file.txt filter=lfs diff=lfs merge=lfs -text
+another_large_file.txt filter=lfs diff=lfs merge=lfs -text
